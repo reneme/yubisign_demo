@@ -10,3 +10,5 @@ This is just a simple demo
 3. enable commit signing by default
    `config --global commit.gpgsign true`
 4. Profit!
+
+# Also pushing to GitHub via YubiKey authentication works
